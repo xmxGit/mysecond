@@ -1,0 +1,13 @@
+{
+"companyName": "DefaultCompany",
+"productName": "apk",
+"dataUrl": "Packages.data.unityweb",
+"asmCodeUrl": "Packages.asm.code.unityweb",
+"asmMemoryUrl": "Packages.asm.memory.unityweb",
+"asmFrameworkUrl": "Packages.asm.framework.unityweb",
+"TOTAL_MEMORY": 268435456,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#7E0680"
+}
